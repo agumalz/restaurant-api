@@ -1,1 +1,1 @@
-restaurant-api using Express JS
+restaurant-api using ExpressJS
